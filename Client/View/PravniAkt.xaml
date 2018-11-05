@@ -1,0 +1,29 @@
+﻿<Window x:Class="Client.View.PravniAkt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.View"
+        mc:Ignorable="d"
+        Title="Pravni Akt" Height="763.4" Width="623.6">
+	<Grid>
+		<Button Command="{Binding NewDeoCommand}" Content="DEO" HorizontalAlignment="Left" Height="42" Margin="49,491,0,0" VerticalAlignment="Top" Width="174"/>
+		<Button Command="{Binding NewGlavaCommand}" Content="GLAVA" HorizontalAlignment="Left" Height="42" Margin="229,491,0,0" VerticalAlignment="Top" Width="157"/>
+		<Button Command="{Binding NewOdeljakCommand}" Content="ODELJAK" HorizontalAlignment="Left" Height="42" Margin="391,491,0,0" VerticalAlignment="Top" Width="170"/>
+		<Button Command="{Binding NewClanCommand}" Content="CLAN" HorizontalAlignment="Left" Height="37" Margin="49,541,0,0" VerticalAlignment="Top" Width="512"/>
+		<Button Command="{Binding NewTackaCommand}" Content="TACKA" HorizontalAlignment="Left" Height="30" Margin="49,588,0,0" VerticalAlignment="Top" Width="250"/>
+		<Button Command="{Binding NewStavCommand}" Content="STAV" HorizontalAlignment="Left" Height="30" Margin="305,588,0,0" VerticalAlignment="Top" Width="256"/>
+		<TextBox Name="NaslovTextBox"  HorizontalAlignment="Left" Height="41" Margin="49,358,0,0" TextWrapping="Wrap" Text="{Binding NaslovPravnogAkta, UpdateSourceTrigger=PropertyChanged}" FontWeight="Bold" TextAlignment="Center" FontSize="24" VerticalAlignment="Top" Width="512"/>
+		<TextBox Name="UvodTextBox" HorizontalAlignment="Left" Height="117" Margin="49,193,0,0" TextWrapping="Wrap" Text="{Binding UvodPravnogAkta, UpdateSourceTrigger=PropertyChanged}" FontSize="18" TextAlignment="Justify" VerticalAlignment="Top" Width="512"/>
+		<ComboBox Name="TipoviAktaComboBox" SelectedItem="{Binding TipPravnogAkta, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Height="37" Margin="305,22,0,0" VerticalAlignment="Top" Width="256"/>
+		<Label Content="Odaberite tip Pravnog Akta" FontSize="18" HorizontalAlignment="Left" Height="37" Margin="49,22,0,0" VerticalAlignment="Top" Width="250"/>
+		<Label Content="UVOD" FontSize="20" HorizontalAlignment="Left" Height="37" Margin="283,152,0,0" VerticalAlignment="Top" Width="74"/>
+		<Label Content="NASLOV" FontSize="20" HorizontalAlignment="Left" Height="37" Margin="273,316,0,0" VerticalAlignment="Top" Width="84"/>
+		<Label Content="Klikom na dugme ubacite elemnt pravnog akta koji zelite"  FontSize="20" HorizontalAlignment="Left" Height="42" Margin="49,412,0,0" VerticalAlignment="Top" Width="512"/>
+		<Label Content="*NAPOMENA: Redosled elemenata mora biti po pravilniku za formiranje Pravnih Akti!"  FontSize="13" HorizontalAlignment="Left" Height="27" Margin="49,459,0,0" VerticalAlignment="Top" Width="512"/>
+		<Button Command="{Binding CreatePravniAktCommand}" Content="Sacuvaj" HorizontalAlignment="Left" Height="54" Margin="49,667,0,0" VerticalAlignment="Top" Width="512"/>
+		<DatePicker Name="Datepicker" DisplayDateStart="01/01/2018" SelectedDate="{Binding DatumStupanjaNaSnagu, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="423,90,0,0" VerticalAlignment="Top" Height="44" Width="138"/>
+		<Label Content="ODABERITE DATUM STUPANJA NA SNAGU" FontSize="18" HorizontalAlignment="Left" Height="44" Margin="49,90,0,0" VerticalAlignment="Top" Width="369"/>
+
+	</Grid>
+</Window>

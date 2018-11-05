@@ -1,0 +1,17 @@
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\Database\Database.mdf
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\Database\Database_log.ldf
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\Common.dll.config
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\Common.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\Common.pdb
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\EntityFramework.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\EntityFramework.xml
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\obj\Debug\Common.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Common\obj\Debug\Common.pdb

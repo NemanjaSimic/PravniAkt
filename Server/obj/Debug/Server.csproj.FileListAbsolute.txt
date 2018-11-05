@@ -1,0 +1,17 @@
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\Database\Database.mdf
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\Database\Database_log.ldf
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\Server.exe.config
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\Server.exe
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\Server.pdb
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\Common.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\EntityFramework.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\Common.pdb
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\Common.dll.config
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\EntityFramework.xml
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\obj\Debug\Server.exe
+C:\Users\Simic\Desktop\Pravni Akt\PR_16_2015\Server\obj\Debug\Server.pdb
